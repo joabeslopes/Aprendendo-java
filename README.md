@@ -1,2 +1,2 @@
 # Aprendendo-java
-Criei para que pudesse aprender a programar em java e ensinar o que estou aprendendo a quem quiser.
+Criei para aprender gradativamente a linguagem java, e ao mesmo tempo ensiná-la para quem tiver interesse. 😄
